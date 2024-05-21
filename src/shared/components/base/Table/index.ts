@@ -1,4 +1,4 @@
-export type { ConfigColumnType } from './Table'
+export type { ConfigColumnType } from './lib/types'
 
 export { Table } from './Table'
 
